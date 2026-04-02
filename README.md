@@ -120,13 +120,6 @@ Frontend-heavy project focused on UX and performance.
 
 ---
 
-## Connect
-
-* Portfolio → https://your-portfolio.com
-* LinkedIn → https://linkedin.com/in/your-profile
-
----
-
 ## Final Note
 
 I don’t chase trends.
